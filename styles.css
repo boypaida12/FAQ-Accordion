@@ -113,6 +113,7 @@ body {
 .answer {
     max-height: 0;
     overflow: hidden;
+    line-height: 1.7;
 }
 
 .question, .answer, .arrow-down {
