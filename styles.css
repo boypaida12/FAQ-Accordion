@@ -44,9 +44,9 @@ body {
 
 .image-wrapper {
     background-image: url(./images/bg-pattern-desktop.svg);
-    background-size: auto;
+    background-size: 190%;
     background-repeat: no-repeat;
-    background-position: 100%;
+    background-position: 120% 68%;
     display: flex;
 }
 
